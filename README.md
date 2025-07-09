@@ -9,7 +9,8 @@ A Python project that uses OpenCV to detect motion through your webcam and logs 
 
 ## 🧪 How to Use
 
-1. Run `MovementDetection.py` — press `q` to stop recording.
+1. Run `MovementDetection.py` -Make sure to step away for a second when recording starts -Make some movements -press `q` to stop recording.
+  
 2. Run `plotting.py` — it opens a motion graph in your browser.
 
 ## 💾 Requirements
