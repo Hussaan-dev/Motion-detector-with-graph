@@ -18,3 +18,6 @@ A Python project that uses OpenCV to detect motion through your webcam and logs 
 Install required packages:
 ```bash
 pip install -r requirements.txt
+
+💡 If you get a "No such file or directory" error, make sure you're in the folder where `requirements.txt` is located.
+
